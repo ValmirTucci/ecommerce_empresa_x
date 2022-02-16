@@ -24,5 +24,8 @@ melhoria 1,_**melhoria**_ 2
 ### Funcionalidades a desenvolver
 
 1. Area de membros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes
+    3. CSS diferentes para grupos de clientes
 2. Integracao com outros pagamentos
 3. Sistema de bonus para primeira compra
