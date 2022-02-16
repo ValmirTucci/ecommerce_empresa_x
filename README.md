@@ -40,4 +40,12 @@ melhoria 1,_**melhoria**_ 2
 
 ### Links interessantes
 
-![Google](https://www.google.com.br)
+[Google](https://www.google.com.br)
+
+[https://www.horadecodar.com.br] (https://www.horadecodar.com.br)
+
+Contribuidor principal: https://www.github.com/matheusbattisti
+
+[![Logo do PHP](https://s3.amazonaws.com/static.internetstyle.net/img/php-1.svg)]https://www.github.com/matheusbattisti
+
+
