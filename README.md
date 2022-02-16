@@ -33,3 +33,7 @@ melhoria 1,_**melhoria**_ 2
 ### Imagem local
 
 ![Logo do Python](img/python.svg)
+
+### Imagem Externa
+
+![Logo do PHP](https://s3.amazonaws.com/static.internetstyle.net/img/php-1.svg)
