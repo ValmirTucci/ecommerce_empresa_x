@@ -46,6 +46,6 @@ melhoria 1,_**melhoria**_ 2
 
 Contribuidor principal: https://www.github.com/matheusbattisti
 
-[![Logo do PHP](https://s3.amazonaws.com/static.internetstyle.net/img/php-1.svg)]https://www.github.com/matheusbattisti
+![Logo do PHP](https://s3.amazonaws.com/static.internetstyle.net/img/php-1.svg)https://www.github.com/matheusbattisti
 
 
