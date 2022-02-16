@@ -49,3 +49,9 @@ Contribuidor principal: https://www.github.com/matheusbattisti
 ![Logo do PHP](https://s3.amazonaws.com/static.internetstyle.net/img/php-1.svg)https://www.github.com/matheusbattisti
 
 
+## Código da função soma
+
+``` javascript
+function soma (a,b){
+    return a + b;
+} ```
